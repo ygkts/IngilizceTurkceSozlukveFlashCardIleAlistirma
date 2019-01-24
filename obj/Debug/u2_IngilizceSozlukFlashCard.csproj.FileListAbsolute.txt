@@ -1,0 +1,11 @@
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\Hafta9\Kurs_14Ocak2019\u2_IngilizceSozlukFlashCard\u2_IngilizceSozlukFlashCard\bin\Debug\u2_IngilizceSozlukFlashCard.exe.config
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\Hafta9\Kurs_14Ocak2019\u2_IngilizceSozlukFlashCard\u2_IngilizceSozlukFlashCard\bin\Debug\u2_IngilizceSozlukFlashCard.exe
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\Hafta9\Kurs_14Ocak2019\u2_IngilizceSozlukFlashCard\u2_IngilizceSozlukFlashCard\bin\Debug\u2_IngilizceSozlukFlashCard.pdb
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\Hafta9\Kurs_14Ocak2019\u2_IngilizceSozlukFlashCard\u2_IngilizceSozlukFlashCard\obj\Debug\u2_IngilizceSozlukFlashCard.csprojResolveAssemblyReference.cache
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\Hafta9\Kurs_14Ocak2019\u2_IngilizceSozlukFlashCard\u2_IngilizceSozlukFlashCard\obj\Debug\u2_IngilizceSozlukFlashCard.Form1.resources
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\Hafta9\Kurs_14Ocak2019\u2_IngilizceSozlukFlashCard\u2_IngilizceSozlukFlashCard\obj\Debug\u2_IngilizceSozlukFlashCard.Properties.Resources.resources
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\Hafta9\Kurs_14Ocak2019\u2_IngilizceSozlukFlashCard\u2_IngilizceSozlukFlashCard\obj\Debug\u2_IngilizceSozlukFlashCard.csproj.GenerateResource.Cache
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\Hafta9\Kurs_14Ocak2019\u2_IngilizceSozlukFlashCard\u2_IngilizceSozlukFlashCard\obj\Debug\u2_IngilizceSozlukFlashCard.exe
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\Hafta9\Kurs_14Ocak2019\u2_IngilizceSozlukFlashCard\u2_IngilizceSozlukFlashCard\obj\Debug\u2_IngilizceSozlukFlashCard.pdb
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\Hafta9\Kurs_14Ocak2019\u2_IngilizceSozlukFlashCard\u2_IngilizceSozlukFlashCard\obj\Debug\u2_IngilizceSozlukFlashCard.Form2.resources
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\Hafta9\Kurs_14Ocak2019\u2_IngilizceSozlukFlashCard\u2_IngilizceSozlukFlashCard\obj\Debug\u2_IngilizceSozlukFlashCard.Form3.resources
